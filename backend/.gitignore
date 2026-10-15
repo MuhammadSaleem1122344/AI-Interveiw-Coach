@@ -1,0 +1,5 @@
+backend/.env.example
+.env
+
+backend/.env.example
+backend/.secret_key
